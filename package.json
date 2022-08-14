@@ -1,6 +1,6 @@
 {
   "name": "my_site",
-  "homepage": "https://calumcmccall.github.io/<repo-name>",
+  "homepage": "https://calumcmccall.github.io/my_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
